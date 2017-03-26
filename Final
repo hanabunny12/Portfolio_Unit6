@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Prana</title>
+    </head>
+    <h1> Prana's Fake Buzz-Feed Survey! </h1>
+    <p> Answer the following questions to see which fruit best represents you! </p>
+    But first, you need to solve a riddle to get to our survey. Press the Go! button here!
+    
+     <button id = "submit">Go!</button>
+     
+    <body>
+       <div>
+      <p id = "riddle"></p>
+      <input id="answer">
+      <button id= "go">Go!</button>
+      
+      </div>
+    </body>
+    <p id = "image">
+    Which image do you like best? 
+    <img src="https://wallpaperbrowse.com/media/images/Background-4.jpg" alt="plain">
+    <img src="https://s-media-cache-ak0.pinimg.com/736x/78/b1/96/78b1965dbb8d754bbeb6f9a1addf0d4f.jpg" alt="bright"> </p>
+    
+    
+</html>
